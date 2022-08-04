@@ -1,16 +1,29 @@
-### Hi there 👋
+# Olá, eu sou o Bryann!
 
-<!--
-**iBryann/iBryann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ✨ Sobre mim
+Dev. front-end apaixonado pelo ecosistema JavaScript, projetos responsivos e códigos bem estruturados e limpos. Sou um profissional dedicado, responsável, proativo e auto-gerenciável, em constante aprimoramento e sempre disponível para compartilhar conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou movido por desafios, pois projetar e dar vida a ideias me empolga e ver as pessoas felizes com os resultados me motiva a sempre ir um pouco além. 😎
+
+
+### ⚡ Tecnologias
+Estas são algumas das tecnologias e ferramentas que trabalho:
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,react,html,css,sass,styledcomponents,git,github,firebase,jquery,bootstrap)](https://skillicons.dev)
+
+
+### 💬 Chaaama!
+<div> 
+    <a href="https://www.linkedin.com/in/ibryann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+    <a href="https://www.instagram.com/bryann.enrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://discordapp.com/users/279304142378500097" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+    <a href="mailto:bryann.enrique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+### 📈 Minhas Estatísticas
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iBryann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBryann&layout=compact&langs_count=7&theme=dracula"/>
+</div>
