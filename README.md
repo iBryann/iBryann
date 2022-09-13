@@ -10,7 +10,7 @@ Sou movido por desafios, pois projetar e dar vida a ideias me empolga e ver as p
 ### ⚡ Tecnologias
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Linguagens](https://skillicons.dev/icons?i=js,ts,react,html,css,sass,styledcomponents,materialui,jquery,bootstrap)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=js,ts,react,html,css,sass,styledcomponents,tailwind,materialui,jquery,bootstrap)](https://skillicons.dev)
 
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,figma,firebase,vite,netlify,webpack,vscode)](https://skillicons.dev)
 
