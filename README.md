@@ -14,7 +14,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,figma,firebase,vite,netlify,webpack,vscode)](https://skillicons.dev)
 
-[![Ferramentas](https://skillicons.dev/icons?i=nodejs,prisma,sqlite,mongodb)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite,mongodb)](https://skillicons.dev)
 
 
 ### 📈 Minhas Estatísticas
